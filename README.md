@@ -1,4 +1,4 @@
-# Sunshining Analysis for Hong Kong Public Buses
+# Sunshining Analysis for Hong Kong Public Buses (Geoprocessing Toolbox for ArcGIS Pro)
 Welcome to use the Sunshining Analysis tool for Hong Kong buses.
 ArcGIS Pro and Python environment are required.
 This Tool Version: 1.3
